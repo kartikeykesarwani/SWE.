@@ -1,0 +1,3 @@
+{ 
+   "mongoURI" : "mongodb+srv://kartikey:<password>@devpark.7cte3.mongodb.net/<dbname>?retryWrites=true"
+}
