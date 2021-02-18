@@ -1,4 +1,6 @@
 { 
    "mongoURI" : "mongodb+srv://kartikey:59u9hi5g@devpark.7cte3.mongodb.net/<dbname>?retryWrites=true",
-   "jwtSecret": "mysecrettoken"
+   "jwtSecret": "mysecrettoken",
+   "githubClientId": "18f30bf4c26c0ce7ad24",
+   "githubSecret": "7f3f11ca3ee56e34b36700ba74133b6bc6fbeef8"
 }
